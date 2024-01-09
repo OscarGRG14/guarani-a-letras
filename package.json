@@ -1,6 +1,6 @@
 {
   "name": "guarani-a-letras",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Genera texto apartir de un monto en la moneda paraguaya guaranies",
   "main": "src/index.js",
   "scripts": {
@@ -11,5 +11,10 @@
     "Oscar Ramirez",
     "Santiago Galeano"
   ],
+  "homepage": "https://github.com/OscarGRG14/guaraniALetras",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OscarGRG14/guaraniALetras"
+  },
   "license": "ISC"
 }
