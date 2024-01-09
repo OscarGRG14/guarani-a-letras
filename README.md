@@ -6,7 +6,8 @@ La biblioteca GuaraniALetras proporciona funciones para convertir números a let
 
 ```bash
 npm install guaranialetras
-
+```
+## Instalación
 ```javascript
 const guaranialetras = require('guaranialetras');
 
@@ -21,3 +22,4 @@ const otroNumero = 7890123.45;
 const enLetrasOtro = guaranialetras.NumeroALetras(otroNumero, true);
 console.log(enLetrasOtro);
 // Salida: "SIETE MILLONES OCHOCIENTOS NOVENTA MIL CIENTO VEINTITRÉS GUARANÍES CON CUARENTA Y CINCO"
+```
