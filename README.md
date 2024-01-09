@@ -5,11 +5,11 @@ La biblioteca GuaraniALetras proporciona funciones para convertir números a let
 ## Instalación
 
 ```bash
-npm install guaranialetras
+npm install guaraniAletras
 ```
 ## Ejemplo de uso
 ```javascript
-const guaranialetras = require('guaranialetras');
+const guaranialetras = require('guaraniAletras');
 
 // Ejemplo de uso
 const numero = 12345.67;
