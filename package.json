@@ -1,6 +1,6 @@
 {
   "name": "guarani-a-letras",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Genera texto apartir de un monto en la moneda paraguaya guaranies",
   "main": "src/index.js",
   "scripts": {
