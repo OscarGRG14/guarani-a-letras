@@ -7,7 +7,7 @@ La biblioteca GuaraniALetras proporciona funciones para convertir números a let
 ```bash
 npm install guaranialetras
 ```
-## Instalación
+## Ejemplo de uso
 ```javascript
 const guaranialetras = require('guaranialetras');
 
