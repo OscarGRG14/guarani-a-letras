@@ -5,7 +5,7 @@ La biblioteca GuaraniALetras proporciona funciones para convertir números a let
 ## Instalación
 
 ```bash
-npm install guaraniAletras
+npm install guarani-a-letras
 ```
 ## Ejemplo de uso
 ```javascript
